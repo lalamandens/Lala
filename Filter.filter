@@ -1,8 +1,7 @@
 //╔══════════════════════════════════════════╗
 //║ Look Up Item Codes @ Path of Diablo Wiki ║
-//║ Pure Karma Loot Filter 8.6               ║
+//║ Lala's mod of Pure Karma Loot Filter 8.6 ║
 //║ Patch: Tourmaline                        ║
-//║ By: KarmaNation	                     ║
 //╚══════════════════════════════════════════╝
 ItemDisplay[CLVL>79 GOLD<5000]:
 ItemDisplay[CLVL>59 GOLD<2500]:
@@ -131,8 +130,8 @@ ItemDisplay[MAG ID WP13 (TABSK24=3 AND SK121=3)]: %PURPLE%+++++ %ORANGE%FOH SCEP
 //╚══════════════╝
 ItemDisplay[MAG ID amf]: %ORANGE%++ %BLUE%Mat Jav %ORANGE%++
 ItemDisplay[MAG ID ama]: %ORANGE%++ %BLUE%Cer Jav %ORANGE%++
-ItemDisplay[MAG ID amf]: %ORANGE%++ %BLUE%Maid Jav %ORANGE%++
-ItemDisplay[NMAG ID amf]: %ORANGE%++ %RED% Diadem %ORANGE%++
+ItemDisplay[MAG ID am5]: %ORANGE%++ %BLUE%Maid Jav %ORANGE%++
+ItemDisplay[NMAG ID ci3]: %ORANGE%++ %RED% Diadem %ORANGE%++
 //╔══════╗
 //║ GEMS ║
 //╚══════╝
