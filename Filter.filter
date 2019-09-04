@@ -132,7 +132,7 @@ ItemDisplay[MAG ID WP13 (TABSK24=3 AND SK121=3)]: %PURPLE%+++++ %ORANGE%FOH SCEP
 ItemDisplay[MAG ID amf]: %ORANGE%++ %BLUE%Mat Jav %ORANGE%++
 ItemDisplay[MAG ID ama]: %ORANGE%++ %BLUE%Cer Jav %ORANGE%++
 ItemDisplay[MAG ID amf]: %ORANGE%++ %BLUE%Maid Jav %ORANGE%++
-ItemDisplay[MAG ID amf]: %ORANGE%++ %RED% Diadem %ORANGE%++
+ItemDisplay[NMAG ID amf]: %ORANGE%++ %RED% Diadem %ORANGE%++
 //╔══════╗
 //║ GEMS ║
 //╚══════╝
