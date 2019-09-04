@@ -128,10 +128,10 @@ ItemDisplay[MAG ID WP13 (TABSK24=3 AND SK121=3)]: %PURPLE%+++++ %ORANGE%FOH SCEP
 //╔══════════════╗
 //║ Runes adds   ║
 //╚══════════════╝
-ItemDisplay[MAG ID amf]: %ORANGE%++ %BLUE%Mat Jav %ORANGE%++
-ItemDisplay[MAG ID ama]: %ORANGE%++ %BLUE%Cer Jav %ORANGE%++
-ItemDisplay[MAG ID am5]: %ORANGE%++ %BLUE%Maid Jav %ORANGE%++
-ItemDisplay[NMAG ID ci3]: %ORANGE%++ %RED% Diadem %ORANGE%++
+ItemDisplay[MAG !ID amf]: %ORANGE%++ %BLUE%Mat Jav %ORANGE%++
+ItemDisplay[MAG !ID ama]: %ORANGE%++ %BLUE%Cer Jav %ORANGE%++
+ItemDisplay[MAG !ID am5]: %ORANGE%++ %BLUE%Maid Jav %ORANGE%++
+ItemDisplay[NMAG !ID ci3]: %ORANGE%++ %RED% Diadem %ORANGE%++
 //╔══════╗
 //║ GEMS ║
 //╚══════╝
